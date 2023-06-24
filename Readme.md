@@ -44,5 +44,4 @@ https://github.com/avalokkumar/failsafe-examples.git
 - Contributions to this project are welcome! If you have any ideas, bug fixes, or improvements, please open an issue or submit a pull request. Let's collaborate to enhance the Failsafe Examples repository and make it a valuable resource for the community.
 
 ## Resources
-- Official Failsafe Documentation: https://failsafe-lib.github.io/failsafe
 - Failsafe GitHub Repository: https://github.com/failsafe-lib/failsafe
